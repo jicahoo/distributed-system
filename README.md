@@ -3,3 +3,6 @@ As title. Distributed cache(redis), database, hash table, file system. block sto
 
 # Web sites
 * https://www.allthingsdistributed.com/
+
+# Paper:
+* https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf
