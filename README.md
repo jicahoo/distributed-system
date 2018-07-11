@@ -23,3 +23,4 @@ As title. Distributed cache(redis), database, hash table, file system. block sto
  * https://blog.yugabyte.com/yes-we-can-distributed-acid-transactions-with-high-performance-a87d17051371
 * Fauna 
  * https://blog.fauna.com/acid-transactions-in-a-globally-distributed-database
+* Distributed transactions: http://cs.yale.edu/homes/thomson/publications/calvin-sigmod12.pdf
