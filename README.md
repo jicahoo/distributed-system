@@ -17,3 +17,7 @@ As title. Distributed cache(redis), database, hash table, file system. block sto
 * https://www.cs.cornell.edu/projects/ladis2009/papers/lakshman-ladis2009.pdf
 * https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf
 
+# Distributed DB support ACID transaction.
+* CockroachDB
+* YugaByte
+* Fauna 
