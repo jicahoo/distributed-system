@@ -27,3 +27,7 @@ As title. Distributed cache(redis), database, hash table, file system. block sto
 
 # Key value database:
 * LevelDB (not distributed) Google.
+
+# CAP
+* CouchDB is AP, Paxos is CP, RDBMS is AC.
+![alt text](http://docs.couchdb.org/en/2.1.1/_images/intro-consistency-01.png)
