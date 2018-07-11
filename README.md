@@ -11,7 +11,9 @@ As title. Distributed cache(redis), database, hash table, file system. block sto
 * https://www.allthingsdistributed.com/
 
 # Paper:
-* https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf
 
 # Cassanrdra
 * https://www.ibm.com/developerworks/library/os-apache-cassandra/
+* https://www.cs.cornell.edu/projects/ladis2009/papers/lakshman-ladis2009.pdf
+* https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf
+
