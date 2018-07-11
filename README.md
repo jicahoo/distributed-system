@@ -24,3 +24,6 @@ As title. Distributed cache(redis), database, hash table, file system. block sto
 * Fauna 
  * https://blog.fauna.com/acid-transactions-in-a-globally-distributed-database
 * Distributed transactions: http://cs.yale.edu/homes/thomson/publications/calvin-sigmod12.pdf
+
+# Key value database:
+* LevelDB (not distributed) Google.
