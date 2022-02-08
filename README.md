@@ -19,6 +19,9 @@ As title. Distributed cache(redis), database, hash table, file system. block sto
 
 中本聪在比特币中创造性的引入了“工作量证明（POW : Proof of Work）”来解决这个问题，有兴趣可进一步阅读工作量证明。
 
+# Gossip
+* https://flopezluis.github.io/gossip-simulator/
+
 # Paper:
 
 # Cassanrdra
