@@ -10,6 +10,9 @@ As title. Distributed cache(redis), database, hash table, file system. block sto
 # Web sites
 * https://www.allthingsdistributed.com/
 
+# Paxos:
+* https://blog.openacid.com/algo/paxos/
+
 # Paper:
 
 # Cassanrdra
