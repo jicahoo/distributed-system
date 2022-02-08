@@ -13,6 +13,12 @@ As title. Distributed cache(redis), database, hash table, file system. block sto
 # Paxos:
 * https://blog.openacid.com/algo/paxos/
 
+# 拜占庭将军问题
+* https://zhuanlan.zhihu.com/p/33666461
+在出现比特币之前，解决分布式系统一致性问题主要是Lamport提出的Paxos算法或其衍生算法。Paxos类算法仅适用于中心化的分布式系统，这样的系统的没有不诚实的节点（不会发送虚假错误消息，但允许出现网络不通或宕机出现的消息延迟）。
+
+中本聪在比特币中创造性的引入了“工作量证明（POW : Proof of Work）”来解决这个问题，有兴趣可进一步阅读工作量证明。
+
 # Paper:
 
 # Cassanrdra
