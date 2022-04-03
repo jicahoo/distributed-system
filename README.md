@@ -34,7 +34,7 @@ As title. Distributed cache(redis), database, hash table, file system. block sto
 
 # etcd
 * simple introduction about ETCD raft in video: https://www.ibm.com/cloud/learn/etcd
-* https://zhuanlan.zhihu.com/p/51063866 这篇文章，句子不顺，整体却很清晰，有干货。所以，要耐心识别网上的文章，不要一看句子不通顺，就不看了。能做到这一点的技术文章就不多。技术文章要写的句子通顺，简单易懂是要花精力的。但是，技术的人往往没那么大精力写文档。
+* https://zhuanlan.zhihu.com/p/51063866 网易存储的大佬。这篇文章，句子不顺，整体却很清晰，有干货。所以，要耐心识别网上的文章，不要一看句子不通顺，就不看了。能做到这一点的技术文章就不多。技术文章要写的句子通顺，简单易懂是要花精力的。但是，技术的人往往没那么大精力写文档。
 
 # Distributed DB support ACID transaction.
 * CockroachDB
