@@ -34,6 +34,7 @@ As title. Distributed cache(redis), database, hash table, file system. block sto
 
 # etcd
 * simple introduction about ETCD raft in video: https://www.ibm.com/cloud/learn/etcd
+* https://zhuanlan.zhihu.com/p/51063866
 
 # Distributed DB support ACID transaction.
 * CockroachDB
