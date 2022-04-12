@@ -28,6 +28,7 @@ As title. Distributed cache(redis), database, hash table, file system. block sto
 # Paper:
 
 # Cassanrdra
+* 入门简介：https://blog.csdn.net/zhang546030919/article/details/121136968
 * https://www.ibm.com/developerworks/library/os-apache-cassandra/
 * https://www.cs.cornell.edu/projects/ladis2009/papers/lakshman-ladis2009.pdf
 * https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf
