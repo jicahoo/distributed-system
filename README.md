@@ -34,6 +34,7 @@ As title. Distributed cache(redis), database, hash table, file system. block sto
 * https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf
 * Thrift Term (Column Family) vs CQL (Partitin Key) https://pandaforme.gitbooks.io/introduction-to-cassandra/content/understand_the_cassandra_data_model.html 
 * Cassandra Keys: https://www.baeldung.com/cassandra-keys
+* storage engine (sstable (slm), memtable): https://cassandra.apache.org/doc/latest/cassandra/architecture/storage_engine.html
 
 # etcd
 * simple introduction about ETCD raft in video: https://www.ibm.com/cloud/learn/etcd
