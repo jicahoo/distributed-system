@@ -37,6 +37,8 @@ As title. Distributed cache(redis), database, hash table, file system. block sto
 * storage engine (sstable (slm), memtable): https://cassandra.apache.org/doc/latest/cassandra/architecture/storage_engine.html
 * 一致性Hash，虚拟节点：https://zhaoyanblog.com/archives/1018.html，   https://zhuanlan.zhihu.com/p/129049724
 * Read path: https://docs.datastax.com/en/cassandra-oss/3.x/cassandra/dml/dmlAboutReads.html
+* Message internode: https://www.javadoc.io/doc/org.apache.cassandra/cassandra-all/latest/org/apache/cassandra/net/Message.html
+* C* 4 enhancement: https://www.datastax.com/learn/whats-new-for-cassandra-4/async-internode-messaging
 
 # etcd
 * simple introduction about ETCD raft in video: https://www.ibm.com/cloud/learn/etcd
