@@ -39,6 +39,8 @@ As title. Distributed cache(redis), database, hash table, file system. block sto
 * Read path: https://docs.datastax.com/en/cassandra-oss/3.x/cassandra/dml/dmlAboutReads.html
 * Message internode: https://www.javadoc.io/doc/org.apache.cassandra/cassandra-all/latest/org/apache/cassandra/net/Message.html
 * C* 4 enhancement: https://www.datastax.com/learn/whats-new-for-cassandra-4/async-internode-messaging
+* SSTable: https://docs.scylladb.com/architecture/sstable/sstable2/sstable-interpretation/
+  * SSTable Rows **Each row in the SSTable isn’t necessarily a full row of data. Rather, it is just a mutation, a list of changed (added or deleted) ** columns and their new values (or “tombstone” for a deleted column), and a timestamp for each such change (this timestamp is used for reconciling conflicting mutations). The full data row needed by a request will be composed from potentially multiple sstables and/or the in-memory table(s).
 
 # etcd
 * simple introduction about ETCD raft in video: https://www.ibm.com/cloud/learn/etcd
