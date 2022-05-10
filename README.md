@@ -44,6 +44,7 @@ As title. Distributed cache(redis), database, hash table, file system. block sto
  * Relatively New SSTable format: https://distributeddatastore.blogspot.com/2020/03/cassandra-new-sstable-storage-format.html
  * Old format of SSTable: http://distributeddatastore.blogspot.com/2013/08/cassandra-sstable-storage-format.html 
 * Data Model: https://tech.ebayinc.com/engineering/cassandra-data-modeling-best-practices-part-1/
+* https://cwiki.apache.org/confluence/display/CASSANDRA2/DataModel
 
 # etcd
 * simple introduction about ETCD raft in video: https://www.ibm.com/cloud/learn/etcd
