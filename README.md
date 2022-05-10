@@ -43,6 +43,7 @@ As title. Distributed cache(redis), database, hash table, file system. block sto
   * SSTable Rows **Each row in the SSTable isn’t necessarily a full row of data. Rather, it is just a mutation, a list of changed (added or deleted)** columns and their new values (or “tombstone” for a deleted column), and a timestamp for each such change (this timestamp is used for reconciling conflicting mutations). The full data row needed by a request will be composed from potentially multiple sstables and/or the in-memory table(s).
  * Relatively New SSTable format: https://distributeddatastore.blogspot.com/2020/03/cassandra-new-sstable-storage-format.html
  * Old format of SSTable: http://distributeddatastore.blogspot.com/2013/08/cassandra-sstable-storage-format.html 
+* Data Model: https://tech.ebayinc.com/engineering/cassandra-data-modeling-best-practices-part-1/
 
 # etcd
 * simple introduction about ETCD raft in video: https://www.ibm.com/cloud/learn/etcd
